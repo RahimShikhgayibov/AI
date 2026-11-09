@@ -3,6 +3,10 @@
 Bu repo mənim **Süni İntellekt** dərsim və tədqiqatlarım üçün şəxsi bilik bazamdır.
 Məqsəd: öyrəndiklərimi sistemli qeyd etmək, riyazi əsasları dərindən başa düşmək və imtahana hazır olmaq.
 
+🗺️ **Böyük məqsəd:** 12–18 aya sıfırdan **AI Engineer** olmaq. Mərhələlər və gündəlik sistem: **[ROADMAP.md](ROADMAP.md)**
+
+**Gündəlik sistem:** 25 dəq öyrən → 20 dəq et → 5 dəq qeyd yaz və commit et 🟩
+
 ---
 
 ## 📂 Struktur

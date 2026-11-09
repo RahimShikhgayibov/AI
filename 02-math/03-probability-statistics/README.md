@@ -17,4 +17,6 @@
 
 ## Fayllar
 
-_(mövzu öyrənildikcə buraya əlavə olunacaq)_
+- [Bayes teoremi, qərar eşiyi, MLE və Laplas](bayes-ve-qerar.md) (Quiz 1)
+- [Təsnifat metrikaları](metrikalar.md) (Quiz 1)
+- [Sigmoid, şans, logistik reqressiya, softmax](logistik-ve-softmax.md) (Quiz 1)

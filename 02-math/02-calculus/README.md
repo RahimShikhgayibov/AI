@@ -16,4 +16,4 @@
 
 ## Fayllar
 
-_(mövzu öyrənildikcə buraya əlavə olunacaq)_
+- [Qradiyent enişi və geri yayılma](qradiyent-enisi.md) (Quiz 1)

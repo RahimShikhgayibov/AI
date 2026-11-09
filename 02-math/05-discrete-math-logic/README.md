@@ -16,4 +16,4 @@
 
 ## Fayllar
 
-_(mövzu öyrənildikcə buraya əlavə olunacaq)_
+- [Qeyri-səlis məntiq: üzvlük və Zadənin əməliyyatları](qeyri-selis-mentiq.md) (Quiz 1)

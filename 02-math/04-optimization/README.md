@@ -16,4 +16,4 @@
 
 ## Fayllar
 
-_(mövzu öyrənildikcə buraya əlavə olunacaq)_
+- [Xətti reqressiya (ƏKK) və requlyarlaşdırma](xetti-reqressiya-ve-requlyarlasdirma.md) (Quiz 1)

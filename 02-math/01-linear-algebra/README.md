@@ -16,4 +16,4 @@
 
 ## Fayllar
 
-_(mövzu öyrənildikcə buraya əlavə olunacaq)_
+- [Neyronun cəbri: çəkili cəm, parametrlər, konvolyusiya](neyronun-cebri.md) (Quiz 1)

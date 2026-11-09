@@ -38,9 +38,15 @@ Gündəlik qeyd  →  journal/YYYY-MM-DD.md
 
 ## 📊 İrəliləyiş
 
+### 🎯 Növbəti: [Yoxlama işi 1 (Quiz 1)](03-exam-prep/quiz-1/) — 50 bal, 80 dəqiqə
+
 | # | Mövzu | Konspekt | Riyaziyyat | Suallar |
 |---|---|:---:|:---:|:---:|
-| 1 | _(ilk material gələndə doldurulacaq)_ | ⬜ | ⬜ | ⬜ |
+| 1 | [Süni intellektə giriş](01-lectures/01-si-giris.md) | ✅ | ✅ [metrikalar](02-math/03-probability-statistics/metrikalar.md) | ✅ |
+| 2 | [Neyron şəbəkələr](01-lectures/02-neyron-sebekeler.md) | ✅ | ✅ [neyron](02-math/01-linear-algebra/neyronun-cebri.md) · [qradiyent](02-math/02-calculus/qradiyent-enisi.md) | ✅ |
+| 3 | [Arxitekturalar](01-lectures/03-arxitekturalar.md) | ✅ | ✅ [CNN hesabları](02-math/01-linear-algebra/neyronun-cebri.md) | ✅ |
+| 4 | [Xətti modellər](01-lectures/04-xetti-modeller.md) | ✅ | ✅ [ƏKK](02-math/04-optimization/xetti-reqressiya-ve-requlyarlasdirma.md) · [logistik](02-math/03-probability-statistics/logistik-ve-softmax.md) | ✅ |
+| 5 | [Ehtimal modelləri](01-lectures/05-ehtimal-modelleri.md) | ✅ | ✅ [Bayes](02-math/03-probability-statistics/bayes-ve-qerar.md) · [qeyri-səlis](02-math/05-discrete-math-logic/qeyri-selis-mentiq.md) | ✅ |
 
 ⬜ başlanmayıb · 🟨 davam edir · ✅ hazırdır
 

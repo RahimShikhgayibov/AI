@@ -1,5 +1,12 @@
 # 🎯 İmtahan hazırlığı
 
+## Yoxlamalar
+| Yoxlama | Status | Qovluq |
+|---|---|---|
+| **Quiz 1**: 5 mühazirə, 50 bal | 🟨 hazırlıq gedir | [quiz-1/](quiz-1/) |
+
+## Ümumi fayllar
+
 | Fayl | Məzmun |
 |---|---|
 | [`questions.md`](questions.md) | Sual bankı — hər mövzudan suallar və cavablar |

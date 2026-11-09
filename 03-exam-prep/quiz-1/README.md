@@ -39,13 +39,26 @@ Hər hesablama növünün ayrıca riyaziyyat faylı var. Hər faylda izah, həll
 | Eşik və Laplas | $c_{FP}/(c_{FP}+c_{FN})$, $(k+1)/(n+2)$ | [bayes-ve-qerar](../../02-math/03-probability-statistics/bayes-ve-qerar.md) |
 | Qeyri-səlis əməliyyatlar | min, max, $1-\mu$ | [qeyri-selis-mentiq](../../02-math/05-discrete-math-logic/qeyri-selis-mentiq.md) |
 
-## 🗓️ Hazırlıq planı
-- [ ] **1-ci gün:** 5 konspekti oxu, hər mühazirənin «Bir dəqiqədə» hissəsini başa düş
-- [ ] **2-ci gün:** 10 hesablama növünün hər birindən tapşırıqları **cavaba baxmadan** həll et
-- [ ] **3-cü gün:** [adamlar-iller.md](adamlar-iller.md) və [model-secimi.md](model-secimi.md) faylları üzərində özünü yoxla
-- [ ] **4-cü gün:** [tele-dogru-yanlis.md](tele-dogru-yanlis.md), sonra **[sınaq quizini](sinaq-quiz.md)** vaxt ölçərək 80 dəqiqəyə yaz
-- [ ] **5-ci gün:** səhvlərini [mistakes.md](../mistakes.md) faylına yaz, sonra [cheat-sheet](../cheatsheet.md) faylını təkrarla
-- [ ] **Quizdən əvvəlki axşam:** kitabın 20-ci səhifəsini və cheat-sheet-i bir də oxu
+## 🚨 Sıfırdan 2 günə hazırlıq planı (quiz: 12 noyabr)
+
+> **Məqsəd:** hər şeyi öyrənmək yox, **ən çox balı** toplamaq. Bu quiz əsasən **yaddaşı** yoxlayır, dərin riyaziyyat tələb etmir. Hesablamalar sadədir, kalkulyator da lazım deyil.
+
+### 1-ci gün (10 noyabr), ~3 saat: «nə nədir?»
+- [ ] **(60 dəq)** 5 konspektin hər birində yalnız **«Bir cümlədə»**, cədvəllər və ⚠️ hissələrini oxu. Hər şeyi başa düşməyə çalışma.
+- [ ] **(30 dəq)** [cheat-sheet](../cheatsheet.md) faylında «Yeddi cümlə» və «Qarışdırılan cütlər» bölmələrini əzbərlə.
+- [ ] **(45 dəq)** [tele-dogru-yanlis.md](tele-dogru-yanlis.md): 46 sualı cavaba baxmadan yaz, sonra yoxla. Səhvlərini qeyd et. **Bu, A və B hissələridir: 20 bal.**
+- [ ] **(30 dəq)** [model-secimi.md](model-secimi.md): cədvəli 2 dəfə oxu, sonra özünü yoxla. **D hissəsi: 6 bal.**
+
+### 2-ci gün (11 noyabr), ~3 saat: hesablamalar, adamlar, sınaq
+- [ ] **(60 dəq)** Hesablamalar. Hər riyaziyyat faylında yalnız **«Əl ilə həll edilmiş misal»** hissəsinə bax, sonra 1–2 tapşırığı həll et. 10 hesablama növü var, hər birinin düsturu bir sətirdir. **E hissəsi: 8 bal.**
+- [ ] **(40 dəq)** [adamlar-iller.md](adamlar-iller.md): «Yadda saxlama üsulları» bölməsini oxu, sonra özünü yoxla. **C hissəsi: 8 bal.**
+- [ ] **(80 dəq)** **[Sınaq quizini](sinaq-quiz.md)** taymerlə yaz, cavablarla yoxla və balını hesabla.
+- [ ] **Axşam (15 dəq):** yalnız [cheat-sheet](../cheatsheet.md) faylını və öz səhvlərini təkrarla. Sonra yat. Yuxu yaddaşı möhkəmləndirir.
+
+### Quiz səhəri (15 dəq)
+- [ ] Cheat-sheet-dəki düsturlar cədvəlini və «Mütləq yadda saxlanmalı rəqəmlər» bölməsini bir dəfə oxu.
+
+**F hissəsi (qısa cavab):** həmişə **tərif + bir nümunə** yaz. Hər konspektin sonundakı suallar bu hissə üçün yaxşı məşqdir.
 
 ## ✅ Quiz günü üçün məsləhətlər
 1. Əvvəlcə bütün vərəqə bax, asan suallardan başla.

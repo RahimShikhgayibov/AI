@@ -21,6 +21,7 @@ Məqsəd: öyrəndiklərimi sistemli qeyd etmək, riyazi əsasları dərindən b
 | [`05-code/`](05-code/) | Notebook-lar, alqoritmlərin sıfırdan implementasiyası |
 | [`journal/`](journal/) | Gündəlik öyrənmə qeydləri (hər gün kiçik bir addım) |
 | [`templates/`](templates/) | Konspekt, riyaziyyat və məqalə şablonları |
+| [`GLOSSARY.md`](GLOSSARY.md) | 📖 Azərbaycanca ↔ English terminlər (interview üçün) |
 
 ---
 

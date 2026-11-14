@@ -21,6 +21,7 @@ Məqsəd: öyrəndiklərimi sistemli qeyd etmək, riyazi əsasları dərindən b
 | [`03-exam-prep/`](03-exam-prep/) | Sual bankı, cheat-sheet, sınaq imtahanları, səhvlərim |
 | [`04-research/`](04-research/) | Məqalələr və tədqiqat qeydləri |
 | [`05-code/`](05-code/) | Notebook-lar, alqoritmlərin sıfırdan implementasiyası |
+| [`06-sql/`](06-sql/) | 🗄️ SQL (PostgreSQL): middle və senior .NET interview səviyyəsinə 8 həftəlik plan |
 | [`journal/`](journal/) | Gündəlik öyrənmə qeydləri (hər gün kiçik bir addım) |
 | [`templates/`](templates/) | Konspekt, riyaziyyat və məqalə şablonları |
 | [`GLOSSARY.md`](GLOSSARY.md) | 📖 Azərbaycanca ↔ English terminlər (interview üçün) |

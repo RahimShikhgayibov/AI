@@ -1,6 +1,9 @@
-# 🧭 Öyrənmə xəritəsi: ilk 12 həftə (16 noyabr 2026 – 7 fevral 2027)
+# 🧭 Öyrənmə xəritəsi: Python + AI anlayışları kodla (12 həftəlik ilk variant)
 
-> Bu, [ROADMAP.md](ROADMAP.md)-dakı **Mərhələ 1**-in gün-gün planıdır.
+> ⚠️ **Yenilənmə (2026-11-14):** əvvəlcə **SQL bloku** gəlir ([06-sql](06-sql/README.md), 16 noyabr – 10 yanvar). Bu plan ondan sonra, **fevral 2027**-dən başlayır və ROADMAP-dakı **Blok 2 və 3**-ü əhatə edir.
+> .NET developer olduğun üçün Python həftələri (1–7) **sıxılacaq**: təxminən 4 həftəyə C#-la müqayisə edərək keçəcəyik. Aşağıdakı tarixlər o vaxt yenilənəcək. Layihələr isə dəyişmir.
+
+> Bu, [ROADMAP.md](ROADMAP.md)-dakı **Blok 2 və 3**-ün gün-gün planıdır.
 > **Məqsəd:** 12 həftəyə sıfırdan Python yazmağı öyrənmək **və** AI dərsində əzbərlədiyin mövzuları kodla **həqiqətən başa düşmək**.
 
 ---

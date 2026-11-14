@@ -3,7 +3,7 @@
 Bu repo mənim **Süni İntellekt** dərsim və tədqiqatlarım üçün şəxsi bilik bazamdır.
 Məqsəd: öyrəndiklərimi sistemli qeyd etmək, riyazi əsasları dərindən başa düşmək və imtahana hazır olmaq.
 
-🗺️ **Böyük məqsəd:** 12–18 aya sıfırdan **AI Engineer** olmaq. Mərhələlər və gündəlik sistem: **[ROADMAP.md](ROADMAP.md)**
+🗺️ **Böyük məqsəd:** ~18 aya .NET developer-dən **AI Engineer** olmaq. 7 blok: SQL → Python → AI anlayışları → klassik ML → dərin öyrənmə → LLM və AI Engineering → portfolio: **[ROADMAP.md](ROADMAP.md)**
 
 📅 **İndi hansı həftədəyəm?** Gün-gün plan: **[STUDY-PLAN.md](STUDY-PLAN.md)** (ilk 12 həftə: Python + AI anlayışlarını kodla qurmaq)
 

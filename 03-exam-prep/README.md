@@ -3,7 +3,7 @@
 ## Yoxlamalar
 | Yoxlama | Status | Qovluq |
 |---|---|---|
-| **Quiz 1**: 5 mühazirə, 50 bal | 🟨 hazırlıq gedir | [quiz-1/](quiz-1/) |
+| **Quiz 1**: 5 mühazirə, 50 bal | ✅ 12 noyabrda yazıldı. Hazırlıq faydalı oldu, amma anlayışda boşluqlar var. Onları [STUDY-PLAN](../STUDY-PLAN.md) doldurur | [quiz-1/](quiz-1/) |
 
 ## Ümumi fayllar
 

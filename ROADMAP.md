@@ -66,7 +66,7 @@ Universitetdəki AI dərsi bu yol xəritəsinə paralel gedir. İmtahanlardan ə
 ### Gündəlik ritual: 45–60 dəqiqə
 ```
 ⏱ 25 dəq  ÖYRƏN  — yalnız BİR mənbə: video, kurs və ya kitab
-⏱ 20 dəq  ET     — kod yaz və ya tapşırıq həll et (izləmək öyrənmək deyil!)
+⏱ 25 dəq  ET     — kod yaz və ya tapşırıq həll et (izləmək öyrənmək deyil!)
 ⏱  5 dəq  QEYD   — journal/YYYY-MM-DD.md: 3 cümlə yaz → commit → GitHub yaşıl 🟩
 ```
 
@@ -101,8 +101,8 @@ Universitetdəki AI dərsi bu yol xəritəsinə paralel gedir. İmtahanlardan ə
 
 | Mərhələ | Status | Başlama | Bitmə |
 |---|---|---|---|
-| 0. Universitet: Quiz 1 | 🟨 | 2026-11-09 | 2026-11-12 |
-| 1. Python və alətlər | ⬜ | | |
+| 0. Universitet: Quiz 1 | ✅ | 2026-11-09 | 2026-11-12 |
+| 1. Python və alətlər ([gün-gün plan](STUDY-PLAN.md)) | 🟨 | 2026-11-16 | 2027-02-07 |
 | 2. Klassik ML | ⬜ | | |
 | 3. Dərin öyrənmə | ⬜ | | |
 | 4. LLM və AI Engineering | ⬜ | | |

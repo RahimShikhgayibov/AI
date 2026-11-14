@@ -5,7 +5,9 @@ Məqsəd: öyrəndiklərimi sistemli qeyd etmək, riyazi əsasları dərindən b
 
 🗺️ **Böyük məqsəd:** 12–18 aya sıfırdan **AI Engineer** olmaq. Mərhələlər və gündəlik sistem: **[ROADMAP.md](ROADMAP.md)**
 
-**Gündəlik sistem:** 25 dəq öyrən → 20 dəq et → 5 dəq qeyd yaz və commit et 🟩
+📅 **İndi hansı həftədəyəm?** Gün-gün plan: **[STUDY-PLAN.md](STUDY-PLAN.md)** (ilk 12 həftə: Python + AI anlayışlarını kodla qurmaq)
+
+**Gündəlik sistem:** 25 dəq öyrən → 25 dəq et → 5 dəq qeyd yaz və commit et 🟩
 
 ---
 
@@ -43,7 +45,8 @@ Gündəlik qeyd  →  journal/YYYY-MM-DD.md
 
 ## 📊 İrəliləyiş
 
-### 🎯 Növbəti: [Yoxlama işi 1 (Quiz 1)](03-exam-prep/quiz-1/) — 50 bal, 80 dəqiqə
+### ✅ [Yoxlama işi 1 (Quiz 1)](03-exam-prep/quiz-1/): 12 noyabrda yazıldı
+Mühazirə 4 və 5-in sadə dildə izahları: [04-sade](01-lectures/04-xetti-modeller-sade.md) · [05-sade](01-lectures/05-ehtimal-modelleri-sade.md)
 
 | # | Mövzu | Konspekt | Riyaziyyat | Suallar |
 |---|---|:---:|:---:|:---:|
